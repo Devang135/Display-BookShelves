@@ -1,0 +1,12 @@
+{  
+
+	"Amount":"1000",
+	"Recipient_Name":"Friend",
+	"Recipient_Email":"friend@email.com",
+	"Recipient_Error_Email":"friend",
+	"Customer_Name":"group3",
+	"Customer_Email":"group3@gmail.com",
+	"Customer_Error_Email":"group3",
+	"Customer_Mobile":"9876543210"
+
+}
